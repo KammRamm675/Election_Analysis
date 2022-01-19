@@ -1,8 +1,8 @@
-# The data we need to retrieve.
+# The data we need to retrieve
 # 1. The total number of votes cast
 # 2. A complete list of candidates who received votes
 # 3. The percentage of votes each candidate won
-# 4. The total number of votes wach candidate won
+# 4. The total number of votes each candidate won
 # 5. The winner of the election based on popular vote.
 
 # Add our dependencies.
@@ -20,3 +20,4 @@ with open(file_to_load) as election_data:
     # Read and print the header row.
     headers = next(file_reader)
     print(headers)
+
