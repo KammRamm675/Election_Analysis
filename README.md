@@ -40,7 +40,7 @@
 
 ## Election Audit Summary
 
-### How to Use the Script in Future Elections.  
+### How to Use the Script for Future Elections.  
   
 #### Adding Candidates 
   - This is very simple.  Simply go to the excel file used for the script and replace names.  If there more than three (3) this is also simple to fix because the script is not limited to just three (3) candidates.  The only thing you must be careful of is making sure the new candidate's name is in the appropriate column.  Adding a new name will be automatically tracked and votes related to the new name are also tracked. 
