@@ -21,9 +21,7 @@
 
 -     There were three (3) participants in this election, Charles Stockham, Diana DeGette, and Raymon Doane. The following information is regarding each candidates votes and percentages that were received. 
       - Charles Stockham - received 85,213 votes representing 23.0% of total present.
-      
       - Diana DeGette - received 272,892 votes representing 73.8% of total present.
-      
       - Raymon Doane - received 11,606 votes representing 3.1% of total present.
           NOTE - Total number of participating voters equaled 369,711 voters. 
           NOTE - Percentages do not equal 100% due to the above percentages being valued to the tenths place.  If percentages were valued to the hundredths, all numbers line up.
