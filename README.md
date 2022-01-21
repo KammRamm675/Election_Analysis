@@ -10,7 +10,7 @@
 
 ### Analysis of the counties and voters that participated
 
-- First, it should be noted there were only three (3) counties involved in this election.  These were Arapahoe, Denver and Jefferson counties. Below is the total number of votes for each county with their respective percentages. NOTE - the same results can be displayed via this link (ADD LINK TO TXT)
+-     First, it should be noted there were only three (3) counties involved in this election.  These were Arapahoe, Denver and Jefferson counties. Below is the total number of votes for each county with their respective percentages. NOTE - the same results can be displayed via this link (ADD LINK TO TXT)
       -  Arapahoe County - 24,801 voters representing 6.7% of total voters present.
       -  Denver County - 306,055 voters representing 82.8% of total voters present.
       -  Jefferson County - 38,855 voters representing 10.5% of total voters present.
@@ -19,9 +19,11 @@
 
 ### Analysis of Election Candidates
 
-- There were three (3) participants in this election, Charles Stockham, Diana DeGette, and Raymon Doane. The following information is regarding each candidates votes and percentages that were received. 
+-     There were three (3) participants in this election, Charles Stockham, Diana DeGette, and Raymon Doane. The following information is regarding each candidates votes and percentages that were received. 
       - Charles Stockham - received 85,213 votes representing 23.0% of total present.
+      
       - Diana DeGette - received 272,892 votes representing 73.8% of total present.
+      
       - Raymon Doane - received 11,606 votes representing 3.1% of total present.
           NOTE - Total number of participating voters equaled 369,711 voters. 
           NOTE - Percentages do not equal 100% due to the above percentages being valued to the tenths place.  If percentages were valued to the hundredths, all numbers line up.
