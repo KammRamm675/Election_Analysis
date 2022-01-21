@@ -28,7 +28,8 @@
           NOTE - Total number of participating voters equaled 369,711 voters. 
           NOTE - Percentages do not equal 100% due to the above percentages being valued to the tenths place.  If percentages were valued to the hundredths, all numbers line up.
 
-## Results of the Election (Please see attached link https://github.com/KammRamm675/Election_Analysis/blob/main/Analysis/election_analysis.txt)
+## Results of the Election 
+(Please see attached link https://github.com/KammRamm675/Election_Analysis/blob/main/Analysis/election_analysis.txt)
 
 ### Winning County
 
